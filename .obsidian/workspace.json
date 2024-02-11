@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "e6cdf08bb8c26f8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d5d0672c675c54b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2985616fb77b5c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "drafts/ChangeMe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "58284b86fbfa4b87",
+    "type": "split",
+    "children": [
+      {
+        "id": "4aeaba0962b9e841",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ea3669cf0f9a3ae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2a626873297d01aa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aea4dd799983b0b5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "83413849e770527d",
+    "type": "split",
+    "children": [
+      {
+        "id": "af48ac679fb9ba9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aefc036607c881c4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "drafts/ChangeMe.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d9e000c290c52046",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "drafts/ChangeMe.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b354da022df01ffa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8b7914efb16caf26",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "drafts/ChangeMe.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": true,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "command-palette:Open command palette": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "templater-obsidian:Templater": true
+    }
+  },
+  "active": "f2985616fb77b5c5",
+  "lastOpenFiles": [
+    "drafts/ChangeMe.md",
+    "drafts",
+    "drafts/Draft.md",
+    "helpers/Markdown/Quick Manual.md",
+    "index.md",
+    "_site/chapterone/new page.html",
+    "_site/chapterone",
+    "chapterone/new page.md",
+    "chapterone",
+    "drafts/some new page.md",
+    "drafts/First Page.md",
+    "Untitled.md",
+    "_site/Untitled.html",
+    "helpers/Just the Docs Configuration.md",
+    "Index.md",
+    "_site/README",
+    "README",
+    "_site/README.txt",
+    "README.txt",
+    "_site/Read before you start.txt",
+    "Read before you start.md",
+    "drafts/lds.md",
+    "ChapterThree/thirdchapter.md",
+    "chapterTwo/nextchapter.md",
+    "chapterOne/firstPage.md",
+    "_site/README.md",
+    "helpers/attachments/unordered-list-rendered.png",
+    "helpers/attachments/task-list-rendered-simple.png",
+    "helpers/attachments/supported-color-models-rgb-rendered.png",
+    "helpers/attachments/supported-color-models-rendered.png",
+    "helpers/attachments/nested-list-example-3.png",
+    "helpers/attachments/supported-color-models-hsl-rendered.png",
+    "helpers/attachments/readme-links.png",
+    "helpers/attachments/supported-color-models-hex-rendered.png",
+    "helpers/attachments/quoted-text-rendered.png",
+    "helpers/attachments/ordered-list-rendered.png",
+    "helpers/Markdown.md",
+    "helpers/About the template.md",
+    "docs/index.md",
+    "development/index.md",
+    "test.md",
+    "helpers/attachments/Untitled.md",
+    "development/chapter1/Untitled.md",
+    "development/Untitled.md",
+    "development/chapter1/How to ....md",
+    "template/New Page.md"
+  ]
+}
